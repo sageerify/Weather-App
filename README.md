@@ -1,4 +1,5 @@
 Weather App 🌤️
+---
 A sleek, intuitive weather application that provides real-time weather data for any location. Built using modern web technologies for a fast and seamless user experience.
 
 Features
