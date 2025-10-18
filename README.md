@@ -1,8 +1,10 @@
 Weather App 🌤️
+
 ---
+
 A sleek, intuitive weather application that provides real-time weather data for any location. Built using modern web technologies for a fast and seamless user experience.
 
-Features
+Features 
 Real-Time Weather: Displays current weather conditions including temperature, humidity, wind speed, and more.
 Search Functionality: Enter any city name or location to get up-to-date weather information.
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
